@@ -1,2 +1,0 @@
-C:\MinGW\bin\ar.exe qc ..\..\lib\libkmeans.a CMakeFiles/kmeans.dir/kmeans.cpp.obj
-C:\MinGW\bin\ranlib.exe ..\..\lib\libkmeans.a

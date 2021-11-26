@@ -1,6 +1,0 @@
-D:/Users from C drive/modern_c++_Vizzo/KMeans/build/CMakeFiles/edit_cache.dir
-D:/Users from C drive/modern_c++_Vizzo/KMeans/build/CMakeFiles/rebuild_cache.dir
-D:/Users from C drive/modern_c++_Vizzo/KMeans/build/src/CMakeFiles/kmeans.dir
-D:/Users from C drive/modern_c++_Vizzo/KMeans/build/src/CMakeFiles/edit_cache.dir
-D:/Users from C drive/modern_c++_Vizzo/KMeans/build/src/CMakeFiles/main.dir
-D:/Users from C drive/modern_c++_Vizzo/KMeans/build/src/CMakeFiles/rebuild_cache.dir
